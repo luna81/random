@@ -1,0 +1,4 @@
+This software is distributed under the 
+LGPL (GNU Lesser General Public Licence) v3.0
+
+Author: Rocío Pinillos Bermúdez
